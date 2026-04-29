@@ -1,4 +1,4 @@
-# sbmailer - free marketing email portal
+# sblmailer - free marketing email portal
 
 sbmailer is a lightweight, self hosted email marketing platform that lets you manage contacts, create mailing lists, and send campaigns using your own SMTP server.
 

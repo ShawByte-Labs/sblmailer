@@ -19,6 +19,22 @@ It’s designed for developers, small businesses, and anyone who wants full cont
 * Testing email delivery using your own SMTP setup
 * Hosting a private, self controlled email platform
 
+# Demo
+
+https://demo.shawbytelabs.tech/sblmailer/
+
+Admin Login
+Email: demo@shawbytelabs.tech
+
+Password: demopassword
+
+Marketer Login
+Email: demouser@shawbytelabs.tech
+
+Password: demopassword
+
+Email sending is disabled in the demo to prevent abuse. However, you can still go through the full sending process, sent emails will be stored in the system so you can preview and review them.
+
 # Initial public release of SBL Mailer ver 1.0.0
 
 ## Where to upload
